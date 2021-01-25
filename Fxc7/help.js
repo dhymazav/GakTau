@@ -6,7 +6,7 @@ const help = (prefix, ig, name, uptime, pushname2, user, tanggal, jam) => {
 ${ig}
 
 \`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
+https://chat.whatsapp.com/F3DADsTJ10X6XdDDUcrlHx
 
 ┏━━━━━❬ *USER ${name}* ❭━━━━━━━⊱
 ┃╭───────────────────────
@@ -319,7 +319,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┃
 ┣⊱❥ \`\`\`Mau Invit Bot?? Donasi Gan,\`\`\`
 ┃ \`\`\`Kalo Gamau Donasi Follow Ig\`\`\`
-┃ \`\`\`@_farhan_xcode7\`\`\`
+┃ \`\`\`@offdhymaz\`\`\`
 ┃
 ┣⊱❥ \`\`\`Kalian Bisa Mempublish Quotes Kalian\`\`\`
 ┃ \`\`\`Jika Minat Hubungi Aja Owner Buat\`\`\`
